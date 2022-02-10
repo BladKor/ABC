@@ -1,0 +1,8 @@
+Sorted container:
+Container contains 5 elements.
+0: Train: speed = 59, distance = 12, carriage counter = 87. Optimal time = 0.203389.
+1: Train: speed = 39, distance = 6, carriage counter = 23. Optimal time = 0.153846.
+2: Train: speed = 89, distance = 5, carriage counter = 13. Optimal time = 0.056179.
+3: Train: speed = 49, distance = 2, carriage counter = 14. Optimal time = 0.040816.
+4: Train: speed = 74, distance = 3, carriage counter = 56. Optimal time = 0.040541.
+

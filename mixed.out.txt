@@ -1,0 +1,18 @@
+Filled container:
+Container contains 16 elements.
+0: Plane: speed = 45, distance = 66, fly distance = 8, load capacity = 77. Optimal time = 0.177778.
+1: Plane: speed = 20, distance = 2, fly distance = 5, load capacity = 13. Optimal time = 0.250000.
+2: Plane: speed = 70, distance = 2, fly distance = 4, load capacity = 10. Optimal time = 0.057143.
+3: Plane: speed = 38, distance = 63, fly distance = 10, load capacity = 27. Optimal time = 0.263158.
+4: Plane: speed = 48, distance = 38, fly distance = 6, load capacity = 68. Optimal time = 0.125000.
+5: Ship: speed = 3, distance = 2, displacement = 23, ship kind = liner. Optimal time = 0.666667.
+6: Ship: speed = 17, distance = 4, displacement = 73, ship kind = liner. Optimal time = 0.235294.
+7: Ship: speed = 9, distance = 2, displacement = 18, ship kind = tug. Optimal time = 0.222222.
+8: Ship: speed = 28, distance = 1, displacement = 37, ship kind = tug. Optimal time = 0.035714.
+9: Ship: speed = 49, distance = 6, displacement = 5, ship kind = tanker. Optimal time = 0.122449.
+10: Ship: speed = 49, distance = 16, displacement = 61, ship kind = tanker. Optimal time = 0.326531.
+11: Train: speed = 65, distance = 4, carriage counter = 47. Optimal time = 0.061538.
+12: Train: speed = 80, distance = 6, carriage counter = 4. Optimal time = 0.075000.
+13: Train: speed = 30, distance = 7, carriage counter = 4. Optimal time = 0.233333.
+14: Train: speed = 40, distance = 1, carriage counter = 5. Optimal time = 0.025000.
+15: Train: speed = 50, distance = 3, carriage counter = 78. Optimal time = 0.060000.

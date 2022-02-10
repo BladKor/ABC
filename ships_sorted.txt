@@ -1,0 +1,11 @@
+Sorted container:
+Container contains 6 elements.
+0: Ship: speed = 26, distance = 13, displacement = 92, ship kind = liner. Optimal time = 0.500000.
+1: Ship: speed = 68, distance = 15, displacement = 80, ship kind = tanker. Optimal time = 0.223880.
+2: Ship: speed = 68, distance = 15, displacement = 24, ship kind = tanker. Optimal time = 0.223880.
+3: Ship: speed = 47, distance = 10, displacement = 56, ship kind = tug. Optimal time = 0.212766.
+4: Ship: speed = 8, distance = 1, displacement = 37, ship kind = tug. Optimal time = 0.125000.
+5: Ship: speed = 22, distance = 1, displacement = 42, ship kind = liner. Optimal time = 0.045455.
+
+
+
