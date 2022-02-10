@@ -25,6 +25,6 @@ set(SOURCE_FILES
         transport.cpp
         container.cpp
         main.cpp
-        ship.h ship.cpp airplane.h airplane.cpp rnd.h transport.h transport.cpp train.h train.cpp ship.h ship.cpp)
+        ship.cpp)
 
 add_executable(task ${SOURCE_FILES})
